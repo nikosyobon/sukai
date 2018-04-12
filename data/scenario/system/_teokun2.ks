@@ -1,0 +1,8 @@
+[preload  storage="./data/bgimage/友達の家.jpg"  ]
+[preload  storage="./data/bgimage/テオくん　ノーマル.jpg"  ]
+[preload  storage="./data/bgimage/夜道　テオくん.jpg"  ]
+[preload  storage="./data/bgimage/部屋.jpg"  ]
+[preload  storage="./data/bgimage/舞台裏.jpg"  ]
+[preload  storage="./data/bgimage/ステージ.jpg"  ]
+[preload  storage="./data/bgimage/スカイハウス.jpg"  ]
+[return]

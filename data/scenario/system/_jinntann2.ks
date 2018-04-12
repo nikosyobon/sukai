@@ -1,0 +1,5 @@
+[preload  storage="./data/bgimage/部屋.jpg"  ]
+[preload  storage="./data/bgimage/舞台裏.jpg"  ]
+[preload  storage="./data/bgimage/ステージ.jpg"  ]
+[preload  storage="./data/bgimage/スカイハウス.jpg"  ]
+[return]
